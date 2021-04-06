@@ -22,4 +22,8 @@ machine github.com
   login token
   password $TOKEN
 
+machine api.github.com
+  login token
+  password $TOKEN
+
 EOF
